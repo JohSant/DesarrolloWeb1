@@ -687,6 +687,9 @@ padding: 16px;
 margin-top: 5px;
 }
 
+.boton:hover{
+    background: rgb(204, 157, 3);
+}
 
 .informacion_contacto{
 background-color: black;
